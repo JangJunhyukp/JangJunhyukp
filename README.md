@@ -16,6 +16,8 @@
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Unity-000000?style=plastic&logo=Unity&logoColor=white">
+          <img src="https://img.shields.io/badge/unrealengine-0E1128?style=plastic&logo=unrealengine&logoColor=white">
           </div>
     </div>
     <div style="text-align: left;">
