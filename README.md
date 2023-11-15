@@ -1,10 +1,11 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=240&text=Hello%20World!%20I'm%20JH&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
-    <div style="text-align: left;">
-        <b>https://jangjunhyukp.github.io/My-Web-Game/</b>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 성장속도가 무서운 개발자 입니다. </div> 
+    <div style="text-align: left;">
+        <p align="left">🎮 <a href="https://manofthestreet.github.io/js_battleTank/](https://jangjunhyukp.github.io/My-Web-Game/">My Web Game Play</a></br>
+    </div>
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
