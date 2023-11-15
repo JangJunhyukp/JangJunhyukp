@@ -4,7 +4,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> HI! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 성장속도가 무서운 개발자 입니다. </div> 
     <div style="text-align: left;">
-        <p align="left">🎮 <a href="https://manofthestreet.github.io/js_battleTank/](https://jangjunhyukp.github.io/My-Web-Game/">My Web Game Play</a></br>
+        <p align="left">🎮 <a href="https://jangjunhyukp.github.io/My-Web-Game/">My Web Game Play</a></br>
     </div>
     </div>
     <div style="text-align: left;">
